@@ -1,0 +1,9 @@
+Build profile: -w ghc-9.2.4 -O1
+In order, the following will be built (use -v for more details):
+ - x0-1knapsack-0.1.0.0 (exe:x0-1knapsack) (file app/Main.hs changed)
+Preprocessing executable 'x0-1knapsack' for x0-1knapsack-0.1.0.0..
+Building executable 'x0-1knapsack' for x0-1knapsack-0.1.0.0..
+[1 of 1] Compiling Main             ( app/Main.hs, /Users/jinjunjie/github/learn-algorithm/knapsack-problem/0-1knapsack/dist-newstyle/build/aarch64-osx/ghc-9.2.4/x0-1knapsack-0.1.0.0/x/x0-1knapsack/build/x0-1knapsack/x0-1knapsack-tmp/Main.o )
+Linking /Users/jinjunjie/github/learn-algorithm/knapsack-problem/0-1knapsack/dist-newstyle/build/aarch64-osx/ghc-9.2.4/x0-1knapsack-0.1.0.0/x/x0-1knapsack/build/x0-1knapsack/x0-1knapsack ...
+99
+99
